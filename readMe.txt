@@ -1,0 +1,1 @@
+Pour tester le programme vous devez mettre le repertoire 'FullRLFAP' dans votre disque dur 'C'.
